@@ -10,6 +10,7 @@ This project transform database in SQL to obtain certain information for futher 
 
 ## Technologies Used
 -MS SQL
+PowerBI
 
 ## Author
 Jacek Ostrowski
