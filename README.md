@@ -9,8 +9,8 @@ This project transform database in SQL to obtain certain information for futher 
 - Checking which category brings the highest profits and how these profits are distributed in a given category according to the buyer's gender and age
 
 ## Technologies Used
--MS SQL
-PowerBI
+- MS SQL
+- PowerBI
 
 ## Author
 Jacek Ostrowski
